@@ -1,0 +1,1 @@
+<Navbar title='Textutils'  mode={darkMode}/>
